@@ -1,6 +1,6 @@
 # Movie-Recommender-Project
-In this project walkthrough, we'll create a movie recommendation system using Jupyter, Python, and Pandas. In this we are able to type the name of a movie into an input box, and instantly get recommendations for other movies we might like.
+In this project walkthrough, I will create a movie recommendation system using Jupyter and Python language using a CSV File.
 
-We'll start with the Dataset for Movies, which contains movie reviews and ratings.  Then, we'll build a search engine to find a specific movie title in our data.  We'll then be able to create a recommendation engine to recommend specific movies.
+In this we will take a movie.csv file from internet and by using TFIDF we will make a widget having a input box (Search box), where we can type and get recommendations from the widget itself. 
 
 To download the #Dataset for Movies#, download itr from here: https://files.grouplens.org/datasets/movielens/ml-25m.zip
